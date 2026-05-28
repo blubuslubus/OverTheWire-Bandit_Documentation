@@ -7,5 +7,5 @@ I have decided to begin this challenge as someone who knows no more about Linux 
 DISCLAIMER: In accordance with CTF rules and ethics, I have made sure that all actual flags (passwords) have been redacted.
 
 -Level 00-10:
-  [Level 00](00-10/level00.md).
+  -[Level 00](00-10/level00.md).
   
