@@ -1,4 +1,4 @@
-Goal: To connect to a given server and port, with given username and password using ssh
+Goal: To connect to a given server and port, with given username and password using ssh.
 
 Commands used: 
   - ```ssh```
@@ -9,3 +9,5 @@ Procedure:
 Learnings:
   - ssh can be used for remote server connections and command executions, with authentication and encryption.
   - how to connect to a server using ssh, given the required specifics.
+
+Conclusion: Completed level 00 successfully.
