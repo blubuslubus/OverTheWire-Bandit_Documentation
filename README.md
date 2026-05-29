@@ -6,8 +6,8 @@ I have decided to begin this challenge as someone who knows no more about Linux 
 
 DISCLAIMER: In accordance with CTF rules and ethics, I have made sure that all actual flags (passwords) have not been mentioned.
 
-Start date: 28th of May, 2026
-End date: WIP
+Start date: 28th of May, 2026.
+End date: WIP.
 
 - Level 00-10:
   - [Level 00](00-10/level00.md).
