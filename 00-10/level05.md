@@ -4,7 +4,7 @@ Goal: To find the password in the ```inhere``` directory which is human-readable
 Commands Used:
   - ```ls``` to list filenames and directory.
   - ```cd``` to change directory.
-  -```file``` to check the type of data in the files.
+  - ```file``` to check the type of data in the files.
   - ```cat``` to read file contents.
 
 Procedure:  
