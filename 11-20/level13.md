@@ -8,7 +8,7 @@ Commands used:
 
 Procedure:
   - Most of the trial and error involved fumbling with incorrect ports, permissions, and password confusions. At one point I was convinced I needed a linux environment (I am on windows currently).
-  - In the end all I had to do was to ```scp``` the ```sshkey.private``` onto my computer, and login to the user with is.
+  - In the end all I had to do was to ```scp``` the ```sshkey.private``` onto my computer, and login to the user with it.
 
 Learnings:
   - Usage and purpose of ```scp```.
