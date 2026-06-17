@@ -2,6 +2,8 @@
 Goal: To retrieve the password of next level by submitting the password of the current level to port 30001 on localhost using SSL/TLS encryption.
 
 Commands Used:
+  - ```ncat```
+  - ```cat```
 
 Procedure:
   - To use the SSL/TLS encryption, we simply used ```ncat --ssl```.
